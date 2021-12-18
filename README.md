@@ -1,4 +1,4 @@
-# template-two-email
+# Email Template #2
 2/5 Email Templates, big banner and 3 columns 
 
 
