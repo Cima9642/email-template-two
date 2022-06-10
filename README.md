@@ -4,8 +4,7 @@
 
 ## Authors
 
-- [@cima9642](https://www.github.com/cima9642)
-
+[Carlos Martinez](https://www.github.com/cima9642)
 
 ## 🔗 Links
 
